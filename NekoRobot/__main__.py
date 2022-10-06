@@ -137,10 +137,10 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+            text="🚑 Support", url=f"https://telegram.dog/{wesupport004}"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/Programmer_Updates"
+            text="📢 Updates", url="https://telegram.dog/updates004".
         ),
     ],
 ]
@@ -299,11 +299,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="🚑 Support",
-                            url=f"https://telegram.dog/{SUPPORT_CHAT}",
+                            url=f"https://telegram.dog/{wesupport004}",
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url="https://telegram.dog/Programmer_Updates",
+                            url="https://telegram.dog/updates004",
                         ),
                     ]
                 ]
