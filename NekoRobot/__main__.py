@@ -299,11 +299,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="🚑 Support",
-                            url=f"https://telegram.dog/{wesupport004}",
+                            url=f"https://telegram.dog/{wesupport004}".
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url=f"https://telegram.dog/{updates004}",
+                            url=f"https://telegram.dog/{updates004}".
                         ),
                     ]
                 ]
