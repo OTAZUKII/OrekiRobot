@@ -132,15 +132,15 @@ buttons = [
     [
         InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/OTAZUKII/OrekiRobot"
+            text="Source 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support", url=f"https://telegram.dog/{wesupport004}".
+            text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}".
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url=f"https://telegram.dog/{updates004}".
+            text="📢 Updates", url="https://telegram.dog/updates004".
         ),
     ],
 ]
